@@ -1,3 +1,7 @@
 body{
-    background-color: #3c1a8bc5;
+    background-color: #8b271ac5;
+}
+
+tr:hover{
+    background-color: rgb(127, 150, 255);
 }
