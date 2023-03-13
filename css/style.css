@@ -1,7 +1,14 @@
 body{
-    background-color: #8b271ac5;
+    background-color: hsla(214, 68%, 32%, 0.773);
 }
 
 tr:hover{
     background-color: rgb(127, 150, 255);
+}
+
+/* estilo por etiqueta */
+#nombre{
+    border: 1px solid blue;
+    border-radius: 3px;
+    background-color: aquamarine;
 }
