@@ -6,7 +6,7 @@ tr:hover{
     background-color: rgb(127, 150, 255);
 }
 
-/* estilo por etiqueta */
+/* estilo por id */
 #nombre{
     border: 1px solid blue;
     border-radius: 3px;
