@@ -1,1 +1,1 @@
-alert("no al pack si al saludo")
+alert("Alerta de pagina")
